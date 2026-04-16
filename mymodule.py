@@ -1,4 +1,4 @@
-# import google.geani as genai
+# import google.genai as genai
 
 # genai.configure(api_key="AQ.Ab8RN6Is2_VQlwBXWWSiRiQi155by3OaftIgxN5llKVAvo1J4wz")
 
